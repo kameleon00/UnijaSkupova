@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UnijaSkupova/1.0.0": {
+        "runtime": {
+          "UnijaSkupova.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnijaSkupova/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

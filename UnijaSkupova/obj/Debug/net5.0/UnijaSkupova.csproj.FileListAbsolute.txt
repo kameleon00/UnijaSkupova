@@ -1,0 +1,16 @@
+/home/kameleon/Desktop/UnijaSkupova/UnijaSkupova/obj/Debug/net5.0/UnijaSkupova.csprojAssemblyReference.cache
+/home/kameleon/Desktop/UnijaSkupova/UnijaSkupova/obj/Debug/net5.0/UnijaSkupova.GeneratedMSBuildEditorConfig.editorconfig
+/home/kameleon/Desktop/UnijaSkupova/UnijaSkupova/obj/Debug/net5.0/UnijaSkupova.AssemblyInfoInputs.cache
+/home/kameleon/Desktop/UnijaSkupova/UnijaSkupova/obj/Debug/net5.0/UnijaSkupova.AssemblyInfo.cs
+/home/kameleon/Desktop/UnijaSkupova/UnijaSkupova/obj/Debug/net5.0/UnijaSkupova.csproj.CoreCompileInputs.cache
+/home/kameleon/Desktop/UnijaSkupova/UnijaSkupova/bin/Debug/net5.0/UnijaSkupova
+/home/kameleon/Desktop/UnijaSkupova/UnijaSkupova/bin/Debug/net5.0/UnijaSkupova.deps.json
+/home/kameleon/Desktop/UnijaSkupova/UnijaSkupova/bin/Debug/net5.0/UnijaSkupova.runtimeconfig.json
+/home/kameleon/Desktop/UnijaSkupova/UnijaSkupova/bin/Debug/net5.0/UnijaSkupova.runtimeconfig.dev.json
+/home/kameleon/Desktop/UnijaSkupova/UnijaSkupova/bin/Debug/net5.0/UnijaSkupova.dll
+/home/kameleon/Desktop/UnijaSkupova/UnijaSkupova/bin/Debug/net5.0/ref/UnijaSkupova.dll
+/home/kameleon/Desktop/UnijaSkupova/UnijaSkupova/bin/Debug/net5.0/UnijaSkupova.pdb
+/home/kameleon/Desktop/UnijaSkupova/UnijaSkupova/obj/Debug/net5.0/UnijaSkupova.dll
+/home/kameleon/Desktop/UnijaSkupova/UnijaSkupova/obj/Debug/net5.0/ref/UnijaSkupova.dll
+/home/kameleon/Desktop/UnijaSkupova/UnijaSkupova/obj/Debug/net5.0/UnijaSkupova.pdb
+/home/kameleon/Desktop/UnijaSkupova/UnijaSkupova/obj/Debug/net5.0/UnijaSkupova.genruntimeconfig.cache
